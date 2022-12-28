@@ -99,7 +99,7 @@ input {
 .head-main {
     display: flex;
     align-items: center;
-    background: url("/WebDev/Projects/Project-SneakerPeek/img/bg-head.jpg") no-repeat bottom center/cover;
+    background: url("../img/bg-head.jpg") no-repeat bottom center/cover;
     height: 70vh;
     margin: 0 4vw;
 }
